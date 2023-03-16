@@ -2,8 +2,4 @@
 
 ### Hi There! 😀
 
-Hello and welcome to my Github profile. I'm Adzboy! I can speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Spanish 🇪🇸 and a bit of French 🇫🇷
-
-### Hola! 😀
-
-Bienvenido a mi perfil de GitHub! Yo soy Adzboy! Puedo hablar inglés 🏴󠁧󠁢󠁥󠁮󠁧󠁿, español 🇪🇸 y un poco de francés 🇫🇷
+Hello and welcome to my Github profile. I'm Adzboy! I can speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Spanish 🇪🇸 and a bit of French 🇫🇷. I'm not the best at using github so please don't be rude or unkind.
